@@ -1,4 +1,5 @@
-Programmer Hell
+"Programmer Hell"
+by Louie Torres
 
 The question repeats inside my mind,
 "Why isn't my code working this time?"
