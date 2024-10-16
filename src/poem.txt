@@ -14,7 +14,7 @@ by Louie Torres
 
 The question repeats inside my mind,
 "Why isn't my code working this time?"
-I dart my eyes left, then right, then left
+I dart my eyes left and right, oh it has me stressed
 I see no errors, no bugs as I test
 
 I break my code up, piece by piece
