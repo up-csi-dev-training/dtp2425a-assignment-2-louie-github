@@ -1,0 +1,26 @@
+Programmer Hell
+
+The question repeats inside my mind,
+"Why isn't my code working this time?"
+I dart my eyes left, then right, then left
+I see no errors, no bugs as I test
+
+I break my code up, piece by piece
+My thorough inspection yields no leads
+I put a few print statements in here and there
+Yet all seems normal; I'm getting nowhere
+
+Compiler's unhelpful, the docs are sparse
+All my strings look right, my ints, and my chars
+Will I lose my sanity to this darn Heisenbug?
+I refuse to surrender; I refuse to give up!
+
+But the source of the cries still elude me
+All's well and good, it seems to be
+My logic is sound, all edge cases checked
+All errors accounted for, handled and kept
+
+And then I spot it, the source of my pain
+My eternal enemy revived once again
+I concede defeat, for this round he has won
+Hello, missing ";" on line 31.
