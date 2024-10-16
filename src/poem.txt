@@ -9,6 +9,8 @@
 
     Art by Joan Stark
 
+================================================
+
 "Programmer Hell"
 by Louie Torres
 
@@ -36,6 +38,8 @@ And then I spot it, the source of my pain
 My eternal enemy revived once again
 I concede defeat, for this round he has won
 Hello, missing ";" on line 31.
+
+================================================
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣤⣶⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠀⠀⠀⠈⣿⣿⣇⠀
